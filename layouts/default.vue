@@ -2,6 +2,8 @@
   <div class="tm-page">
     <TheNavigation />
     <Nuxt />
+    <TheFooter />
+    <TheMetaFooter />
   </div>
 </template>
 <script>

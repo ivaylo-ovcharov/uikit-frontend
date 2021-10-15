@@ -1,5 +1,5 @@
 <template>
-  <div class="uk-section-default uk-section uk-section-large uk-padding-remove-bottom" tm-header-transparent="dark" uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-slide-bottom-medium; delay: 100;">
+  <div class="uk-section-default uk-section uk-section-large uk-padding-remove-bottom" tm-header-transparent="dark">
     <div class="uk-container uk-container-small">
       <div class="tm-header-placeholder uk-margin-remove-adjacent" style="height: 0px;" />
       <div class="tm-grid-expand uk-child-width-1-1 uk-grid-margin uk-grid uk-grid-stack" uk-grid="">
