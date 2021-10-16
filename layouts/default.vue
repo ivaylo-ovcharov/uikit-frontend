@@ -11,3 +11,8 @@ export default {
   name: 'Default'
 }
 </script>
+<style>
+  * {
+    font-family: 'Manrope' !important;
+  }
+</style>

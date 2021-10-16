@@ -6,6 +6,7 @@
     <HomeTools />
     <HomeProjects />
     <HomeNews />
+    <CallToAction />
   </div>
 </template>
 
