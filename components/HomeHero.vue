@@ -6,7 +6,7 @@
         <div class="uk-grid-item-match uk-first-column">
           <div class="uk-panel uk-width-1-1">
             <h1 class="uk-heading-medium uk-position-relative uk-text-center uk-scrollspy-inview " style="z-index: 3;" uk-scrollspy-class="">
-              Build Anything on<br class="uk-visible@s"> DevStack
+              Take your step to<br class="uk-visible@s"> innovation
             </h1><div class="uk-panel uk-text-lead uk-position-relative uk-margin uk-width-xlarge uk-margin-auto uk-text-center uk-scrollspy-inview " style="z-index: 3;" uk-scrollspy-class="">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.
             </div>

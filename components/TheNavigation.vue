@@ -11,11 +11,11 @@ export default {
     return {
       items: [
         {
-          name: 'Why Entropy',
-          link: 'why-entropy'
+          name: 'Sales Funnel',
+          link: 'why'
         },
         {
-          name: 'Enterprise',
+          name: 'Sass Products',
           link: 'enterprise'
         },
         {
@@ -32,7 +32,7 @@ export default {
             },
             {
               name: 'Story',
-              link: 'ourstory'
+              link: 'story'
             },
             {
               name: 'Careers',
